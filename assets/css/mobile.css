@@ -1,0 +1,498 @@
+/* ══════════════════════════════════════════════════════
+   MOBİL STİLLER  (max-width: 768px)
+   ══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+
+    /* ── Genel düzen ──────────────────────────────────── */
+    body { overflow: hidden; }
+
+    /* Sidebar tamamen gizle */
+    #sidebar,
+    #sidebar-overlay { display: none !important; }
+
+    /* Ana içerik tam ekran */
+    .main-content {
+        margin-left: 0 !important;
+    }
+
+    /* Topbar sadeleştir */
+    .topbar { padding: 0 12px; }
+    .topbar__title { font-size: 0.82rem; }
+    .burger-btn { display: none; }
+
+    /* Topbar'a arama kutusu */
+    .topbar-search {
+        display: flex !important;
+        align-items: center;
+        gap: 6px;
+        background: var(--bg);
+        border: 1px solid var(--border);
+        border-radius: 20px;
+        padding: 5px 12px;
+        flex: 1;
+        max-width: 220px;
+    }
+
+    .topbar-search svg { width: 14px; height: 14px; color: var(--text-dim); flex-shrink: 0; }
+
+    .topbar-search input {
+        background: none;
+        border: none;
+        outline: none;
+        color: var(--text);
+        font-size: 0.83rem;
+        width: 100%;
+    }
+
+    .topbar-search input::placeholder { color: var(--text-dim); }
+
+    /* Topbar action butonları gizle (alt nav var) */
+    .topbar__actions { display: none; }
+
+/* ── Alt navigasyon çubuğu ────────────────────────── */
+    #bottom-nav {
+        display: flex !important;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 56px;
+        background: var(--bg-panel);
+        border-top: 1px solid var(--border);
+        z-index: 300;
+        padding-bottom: env(safe-area-inset-bottom, 0);
+    }
+
+    .bottom-nav__btn {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 3px;
+        font-size: 0.65rem;
+        color: var(--text-dim);
+        font-weight: 500;
+        transition: color var(--transition);
+        border-radius: 0;
+        padding-bottom: 2px;
+    }
+
+    .bottom-nav__btn svg { width: 22px; height: 22px; }
+
+    .bottom-nav__btn.is-active {
+        color: var(--accent);
+    }
+
+    .bottom-nav__btn.is-active svg { stroke: var(--accent); }
+
+}
+
+/* Desktop'ta alt nav gizli */
+#bottom-nav { display: none; }
+.topbar-search { display: none; }
+
+/* ══════════════════════════════════════════════════════
+   MOBİL — Aile Gezgini (MobileNav)
+   ══════════════════════════════════════════════════════ */
+
+.mob-navigator {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    background: var(--bg);
+}
+
+/* ── Üst: geri + ata yolu ────────────────────────── */
+.mob-topbar {
+    background: var(--bg-panel);
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+    min-height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mob-topbar__back {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 8px 14px 4px;
+    font-size: 0.82rem;
+    color: var(--accent);
+    font-weight: 600;
+    text-align: left;
+}
+
+.mob-topbar__back svg { width: 16px; height: 16px; stroke: var(--accent); }
+
+.mob-topbar__path {
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 2px;
+    padding: 0 14px 8px;
+    scrollbar-width: none;
+}
+.mob-topbar__path::-webkit-scrollbar { display: none; }
+
+.mob-crumb {
+    font-size: 0.68rem;
+    color: var(--text-dim);
+    cursor: pointer;
+    white-space: nowrap;
+    padding: 2px 4px;
+    border-radius: 4px;
+    flex-shrink: 0;
+    transition: color var(--transition);
+}
+.mob-crumb:active { color: var(--accent); }
+
+.mob-crumb-sep {
+    font-size: 0.65rem;
+    color: var(--text-dim);
+    user-select: none;
+    flex-shrink: 0;
+}
+
+/* ── Ebeveyn bandı ───────────────────────────────── */
+.mob-parent-band {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    padding: 11px 16px;
+    background: var(--bg-panel);
+    border-bottom: 1px solid var(--border);
+    text-align: left;
+    flex-shrink: 0;
+    transition: background var(--transition);
+}
+
+.mob-parent-band:active { background: var(--bg-hover); }
+
+.mob-parent-band svg { width: 16px; height: 16px; stroke: var(--text-dim); flex-shrink: 0; }
+
+.mob-parent-band__name {
+    flex: 1;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+.mob-parent-band__gen {
+    font-size: 0.68rem;
+    color: var(--text-dim);
+}
+
+/* ── Mevcut kişi hero alanı ──────────────────────── */
+.mob-hero {
+    background: linear-gradient(135deg, #1a2035, #1e2a42);
+    border-bottom: 1px solid var(--border);
+    padding: 20px 16px 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    flex-shrink: 0;
+    position: relative;
+}
+
+.mob-hero__avatar {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent-dim), var(--accent));
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.4rem;
+    font-weight: 800;
+    color: #0f1117;
+}
+
+.mob-hero__info { text-align: center; }
+
+.mob-hero__name {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 4px;
+    line-height: 1.3;
+}
+
+.mob-hero__gen {
+    display: inline-block;
+    font-size: 0.72rem;
+    padding: 2px 10px;
+    border-radius: 10px;
+    background: var(--bg-active);
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.mob-hero__meta {
+    display: block;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    margin-top: 2px;
+}
+
+.mob-hero__card-btn {
+    margin-top: 4px;
+    padding: 9px 20px;
+    border-radius: 20px;
+    background: var(--accent);
+    color: #0f1117;
+    font-weight: 700;
+    font-size: 0.82rem;
+    transition: opacity var(--transition);
+}
+.mob-hero__card-btn:active { opacity: 0.75; }
+
+/* ── Bölüm başlığı ───────────────────────────────── */
+.mob-section {
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.mob-section__title {
+    padding: 12px 16px 6px;
+    font-size: 0.68rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 1;
+}
+
+/* ── Çocuk listesi ───────────────────────────────── */
+.mob-child-list {
+    list-style: none;
+    padding: 0 0 8px;
+}
+
+.mob-child-item {
+    display: flex;
+    align-items: center;
+    min-height: 56px;
+    padding: 0 16px;
+    border-bottom: 1px solid var(--border);
+    gap: 10px;
+    cursor: pointer;
+    transition: background 0.15s;
+}
+
+.mob-child-item:active { background: var(--bg-hover); }
+
+.mob-child-item__meta {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    flex-shrink: 0;
+    min-width: 48px;
+}
+
+.mob-child-item__name {
+    flex: 1;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text);
+    line-height: 1.3;
+}
+
+.mob-child-item__gen {
+    font-size: 0.65rem;
+    padding: 1px 5px;
+    border-radius: 6px;
+    background: var(--bg-active);
+    color: var(--text-muted);
+    font-weight: 600;
+    text-align: center;
+}
+
+.mob-child-item__count {
+    font-size: 0.62rem;
+    color: var(--accent);
+    text-align: center;
+    white-space: nowrap;
+}
+
+.mob-child-item__path {
+    font-size: 0.62rem;
+    color: var(--text-dim);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 90px;
+}
+
+.mob-child-item__arrow {
+    color: var(--text-dim);
+    flex-shrink: 0;
+}
+.mob-child-item__arrow svg { width: 18px; height: 18px; display: block; }
+
+/* ── Arama ───────────────────────────────────────── */
+.mob-search-header {
+    padding: 14px 16px 8px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-panel);
+    flex-shrink: 0;
+}
+
+.mob-search-title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+}
+
+/* ── Boş / yaprak ────────────────────────────────── */
+.mob-empty {
+    padding: 24px 16px;
+    text-align: center;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+}
+
+/* ══════════════════════════════════════════════════════
+   MOBİL — Liste drill-down (MenuView)
+   ══════════════════════════════════════════════════════ */
+
+@media (max-width: 768px) {
+
+    /* Sayfayı kapla */
+    .menu-drill {
+        height: 100%;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        background: var(--bg);
+    }
+
+    .drill-list {
+        flex: 1;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding: 0;
+    }
+
+    .drill-item {
+        min-height: 56px;
+        padding: 0 16px;
+        border-bottom: 1px solid var(--border);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .drill-item__info {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        gap: 2px;
+    }
+
+    .drill-item__name {
+        font-size: 0.9rem;
+        font-weight: 500;
+        color: var(--text);
+        padding: 0;
+    }
+
+    .drill-item__path {
+        font-size: 0.68rem;
+        color: var(--text-dim);
+    }
+
+    .drill-item__count {
+        font-size: 0.68rem;
+        padding: 1px 6px;
+        border-radius: 8px;
+        background: rgba(201,168,76,0.12);
+        color: var(--accent);
+        border: 1px solid rgba(201,168,76,0.25);
+        font-weight: 600;
+        flex-shrink: 0;
+    }
+
+    .drill-item__arrow {
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 8px;
+        color: var(--text-dim);
+        flex-shrink: 0;
+    }
+
+    .drill-item__arrow svg { width: 18px; height: 18px; }
+
+    .drill-header {
+        background: var(--bg-panel);
+        border-bottom: 1px solid var(--border);
+        flex-shrink: 0;
+    }
+
+    .drill-back {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        width: 100%;
+        padding: 10px 16px 4px;
+        font-size: 0.82rem;
+        color: var(--accent);
+        font-weight: 600;
+        text-align: left;
+    }
+
+    .drill-back svg { width: 16px; height: 16px; stroke: var(--accent); }
+
+    .drill-title-row {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        padding: 0 16px 10px;
+    }
+
+    .drill-title {
+        font-size: 1rem;
+        font-weight: 700;
+        color: var(--text);
+        flex: 1;
+    }
+
+    .drill-gen-badge {
+        font-size: 0.68rem;
+        padding: 2px 8px;
+        border-radius: 10px;
+        background: var(--bg-active);
+        color: var(--accent);
+        font-weight: 600;
+        flex-shrink: 0;
+    }
+
+    .drill-path {
+        display: flex;
+        overflow-x: auto;
+        gap: 2px;
+        padding: 0 16px 8px;
+        scrollbar-width: none;
+    }
+    .drill-path::-webkit-scrollbar { display: none; }
+
+    .drill-crumb { font-size: 0.68rem; color: var(--text-dim); white-space: nowrap; }
+    .drill-crumb-sep { font-size: 0.65rem; color: var(--text-dim); }
+
+    .drill-empty { padding: 24px 16px; text-align: center; color: var(--text-dim); font-size: 0.85rem; }
+}

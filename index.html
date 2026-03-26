@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tayfur Ailesi — Soy Ağacı</title>
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/sidebar.css" />
+    <link rel="stylesheet" href="assets/css/person-card.css" />
+    <link rel="stylesheet" href="assets/css/mobile.css" />
+</head>
+<body>
+
+<div id="app">
+
+    <!-- ── Sidebar (desktop) ────────────────── -->
+    <aside id="sidebar" class="sidebar sidebar--open">
+
+        <div class="sidebar__brand">
+            <span class="sidebar__logo">🌳</span>
+            <div class="sidebar__brand-text">
+                <strong>Tayfur Ailesi</strong>
+                <small>Soy Ağacı</small>
+            </div>
+        </div>
+
+        <div class="sidebar__search">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"/>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+            </svg>
+            <input id="search-input" type="text" placeholder="İsim ara…" autocomplete="off" />
+        </div>
+
+        <div class="sidebar__stats">
+            <div class="stat-item">
+                <span class="stat-value" id="stat-total">—</span>
+                <span class="stat-label">Kişi</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="stat-gen">—</span>
+                <span class="stat-label">Kuşak</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="stat-root">—</span>
+                <span class="stat-label">Köken</span>
+            </div>
+        </div>
+
+    </aside>
+
+    <div id="sidebar-overlay" class="sidebar-overlay"></div>
+
+    <!-- ── Ana içerik ──────────────────────── -->
+    <main id="main-content" class="main-content">
+
+        <header class="topbar">
+            <button id="burger-btn" class="burger-btn" aria-label="Menü">
+                <span></span><span></span><span></span>
+            </button>
+            <h1 class="topbar__title">Molla Oğulları Soy Ağacı</h1>
+            <!-- Mobil arama -->
+            <div class="topbar-search">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                </svg>
+                <input id="mobile-search-input" type="text" placeholder="İsim ara…" autocomplete="off" />
+            </div>
+        </header>
+
+        <div id="view-container" class="view-container"></div>
+
+        <div id="tooltip" class="tooltip" role="tooltip"></div>
+
+    </main>
+
+    <!-- ── Kişi Kartı ───────────────────────── -->
+    <div id="person-card" class="person-card">
+        <div class="person-card__backdrop" id="person-card-backdrop"></div>
+        <div class="person-card__panel"    id="person-card-panel"></div>
+    </div>
+
+</div>
+
+<script src="assets/js/mobile-nav.js"></script>
+<script src="assets/js/person-card.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2888 @@
+[
+  {
+    "id": 1,
+    "name": "MOLLA OSMAN (DOĞUM TAHMİNİ 1700",
+    "gen": 1,
+    "parent_id": null
+  },
+  {
+    "id": 2,
+    "name": "KURU YAKUP",
+    "gen": 2,
+    "parent_id": 1
+  },
+  {
+    "id": 3,
+    "name": "ABDULLAH",
+    "gen": 3,
+    "parent_id": 2
+  },
+  {
+    "id": 4,
+    "name": "HACI HALİL",
+    "gen": 4,
+    "parent_id": 3
+  },
+  {
+    "id": 5,
+    "name": "HACI OSMAN",
+    "gen": 4,
+    "parent_id": 3
+  },
+  {
+    "id": 6,
+    "name": "HÜSEYİN",
+    "gen": 5,
+    "parent_id": 4
+  },
+  {
+    "id": 7,
+    "name": "MEHMET",
+    "gen": 5,
+    "parent_id": 4
+  },
+  {
+    "id": 8,
+    "name": "YUSUF",
+    "gen": 5,
+    "parent_id": 5
+  },
+  {
+    "id": 9,
+    "name": "HACI YAKUP",
+    "gen": 5,
+    "parent_id": 5
+  },
+  {
+    "id": 10,
+    "name": "ALİ BEY",
+    "gen": 5,
+    "parent_id": 5
+  },
+  {
+    "id": 11,
+    "name": "DERVİŞ (AYDIN)",
+    "gen": 6,
+    "parent_id": 6
+  },
+  {
+    "id": 12,
+    "name": "DEDE",
+    "gen": 6,
+    "parent_id": 6
+  },
+  {
+    "id": 13,
+    "name": "BOZAĞA",
+    "gen": 6,
+    "parent_id": 7
+  },
+  {
+    "id": 14,
+    "name": "MUSTAFA",
+    "gen": 6,
+    "parent_id": 7
+  },
+  {
+    "id": 15,
+    "name": "ZEKERİYA",
+    "gen": 6,
+    "parent_id": 7
+  },
+  {
+    "id": 16,
+    "name": "HACI ŞERİF",
+    "gen": 6,
+    "parent_id": 8
+  },
+  {
+    "id": 17,
+    "name": "ARİF",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 18,
+    "name": "H.ABDULLAH",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 19,
+    "name": "H.DAVUT",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 20,
+    "name": "BABA",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 21,
+    "name": "TAYFUR",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 22,
+    "name": "FERAŞET",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 23,
+    "name": "EŞREF",
+    "gen": 6,
+    "parent_id": 9
+  },
+  {
+    "id": 24,
+    "name": "NUMAN (KÜÇÜK HACI)",
+    "gen": 6,
+    "parent_id": 10
+  },
+  {
+    "id": 25,
+    "name": "HAKKI",
+    "gen": 7,
+    "parent_id": 11
+  },
+  {
+    "id": 26,
+    "name": "MUSTAFA",
+    "gen": 7,
+    "parent_id": 11
+  },
+  {
+    "id": 27,
+    "name": "DURSUN",
+    "gen": 7,
+    "parent_id": 14
+  },
+  {
+    "id": 28,
+    "name": "HALİL",
+    "gen": 7,
+    "parent_id": 14
+  },
+  {
+    "id": 29,
+    "name": "ŞERİF",
+    "gen": 7,
+    "parent_id": 14
+  },
+  {
+    "id": 30,
+    "name": "NİYAZİ",
+    "gen": 7,
+    "parent_id": 14
+  },
+  {
+    "id": 31,
+    "name": "H.OSMAN",
+    "gen": 7,
+    "parent_id": 16
+  },
+  {
+    "id": 32,
+    "name": "KOCAAĞA",
+    "gen": 7,
+    "parent_id": 16
+  },
+  {
+    "id": 33,
+    "name": "HASAN",
+    "gen": 7,
+    "parent_id": 16
+  },
+  {
+    "id": 34,
+    "name": "HÜSEYİN",
+    "gen": 7,
+    "parent_id": 16
+  },
+  {
+    "id": 35,
+    "name": "KAHRAMAN",
+    "gen": 7,
+    "parent_id": 16
+  },
+  {
+    "id": 36,
+    "name": "DERVİŞ",
+    "gen": 7,
+    "parent_id": 16
+  },
+  {
+    "id": 37,
+    "name": "AHMET",
+    "gen": 7,
+    "parent_id": 17
+  },
+  {
+    "id": 38,
+    "name": "HAMDİ",
+    "gen": 7,
+    "parent_id": 18
+  },
+  {
+    "id": 39,
+    "name": "ŞÜKRÜ",
+    "gen": 7,
+    "parent_id": 18
+  },
+  {
+    "id": 40,
+    "name": "İBRAHİM",
+    "gen": 7,
+    "parent_id": 18
+  },
+  {
+    "id": 41,
+    "name": "YUSUF",
+    "gen": 7,
+    "parent_id": 19
+  },
+  {
+    "id": 42,
+    "name": "H.YAKUP",
+    "gen": 7,
+    "parent_id": 19
+  },
+  {
+    "id": 43,
+    "name": "H.KAYA",
+    "gen": 7,
+    "parent_id": 20
+  },
+  {
+    "id": 44,
+    "name": "SÜLEYMAN",
+    "gen": 7,
+    "parent_id": 21
+  },
+  {
+    "id": 45,
+    "name": "ZİYA",
+    "gen": 7,
+    "parent_id": 21
+  },
+  {
+    "id": 46,
+    "name": "HAYRİ",
+    "gen": 7,
+    "parent_id": 21
+  },
+  {
+    "id": 47,
+    "name": "H.KURBAN",
+    "gen": 7,
+    "parent_id": 21
+  },
+  {
+    "id": 48,
+    "name": "RECEP",
+    "gen": 7,
+    "parent_id": 21
+  },
+  {
+    "id": 49,
+    "name": "MUZAFFER",
+    "gen": 7,
+    "parent_id": 21
+  },
+  {
+    "id": 50,
+    "name": "H.MUHLİS",
+    "gen": 7,
+    "parent_id": 22
+  },
+  {
+    "id": 51,
+    "name": "H.OSMAN",
+    "gen": 7,
+    "parent_id": 22
+  },
+  {
+    "id": 52,
+    "name": "HALİS",
+    "gen": 7,
+    "parent_id": 22
+  },
+  {
+    "id": 53,
+    "name": "İSKENDER",
+    "gen": 7,
+    "parent_id": 23
+  },
+  {
+    "id": 54,
+    "name": "HACI HAKKI",
+    "gen": 7,
+    "parent_id": 23
+  },
+  {
+    "id": 55,
+    "name": "DEDE",
+    "gen": 7,
+    "parent_id": 24
+  },
+  {
+    "id": 56,
+    "name": "ALİ",
+    "gen": 7,
+    "parent_id": 24
+  },
+  {
+    "id": 57,
+    "name": "FAZLI",
+    "gen": 8,
+    "parent_id": 25
+  },
+  {
+    "id": 58,
+    "name": "H.HALİL",
+    "gen": 8,
+    "parent_id": 25
+  },
+  {
+    "id": 59,
+    "name": "HÜSEYİN",
+    "gen": 8,
+    "parent_id": 25
+  },
+  {
+    "id": 60,
+    "name": "DURSUN",
+    "gen": 8,
+    "parent_id": 25
+  },
+  {
+    "id": 61,
+    "name": "NURETTİN",
+    "gen": 8,
+    "parent_id": 31
+  },
+  {
+    "id": 62,
+    "name": "NAZİM",
+    "gen": 8,
+    "parent_id": 32
+  },
+  {
+    "id": 63,
+    "name": "ÖMER",
+    "gen": 8,
+    "parent_id": 32
+  },
+  {
+    "id": 64,
+    "name": "ZEYCAN-MEHMET-GÜLHANIM-ŞAHİNUR",
+    "gen": 8,
+    "parent_id": 32
+  },
+  {
+    "id": 65,
+    "name": "AKİF",
+    "gen": 8,
+    "parent_id": 33
+  },
+  {
+    "id": 66,
+    "name": "ŞERİF",
+    "gen": 8,
+    "parent_id": 34
+  },
+  {
+    "id": 67,
+    "name": "ZARİF",
+    "gen": 8,
+    "parent_id": 35
+  },
+  {
+    "id": 68,
+    "name": "ŞEFİK",
+    "gen": 8,
+    "parent_id": 35
+  },
+  {
+    "id": 69,
+    "name": "ZÜHTÜ",
+    "gen": 8,
+    "parent_id": 36
+  },
+  {
+    "id": 70,
+    "name": "PAŞA",
+    "gen": 8,
+    "parent_id": 36
+  },
+  {
+    "id": 71,
+    "name": "YAŞAR",
+    "gen": 8,
+    "parent_id": 36
+  },
+  {
+    "id": 72,
+    "name": "TAŞTAN",
+    "gen": 8,
+    "parent_id": 38
+  },
+  {
+    "id": 73,
+    "name": "HACI AHMET",
+    "gen": 8,
+    "parent_id": 41
+  },
+  {
+    "id": 74,
+    "name": "HACI DAVUT",
+    "gen": 8,
+    "parent_id": 42
+  },
+  {
+    "id": 75,
+    "name": "SALİM",
+    "gen": 8,
+    "parent_id": 42
+  },
+  {
+    "id": 76,
+    "name": "ALİM",
+    "gen": 8,
+    "parent_id": 42
+  },
+  {
+    "id": 77,
+    "name": "NEVZAT",
+    "gen": 8,
+    "parent_id": 42
+  },
+  {
+    "id": 78,
+    "name": "FİKRET",
+    "gen": 8,
+    "parent_id": 42
+  },
+  {
+    "id": 79,
+    "name": "YUSUF",
+    "gen": 8,
+    "parent_id": 42
+  },
+  {
+    "id": 80,
+    "name": "RASİM",
+    "gen": 8,
+    "parent_id": 45
+  },
+  {
+    "id": 81,
+    "name": "SÜLEYMAN",
+    "gen": 8,
+    "parent_id": 46
+  },
+  {
+    "id": 82,
+    "name": "MÜNİR",
+    "gen": 8,
+    "parent_id": 46
+  },
+  {
+    "id": 83,
+    "name": "HAMİT",
+    "gen": 8,
+    "parent_id": 46
+  },
+  {
+    "id": 84,
+    "name": "METİN",
+    "gen": 8,
+    "parent_id": 46
+  },
+  {
+    "id": 85,
+    "name": "ZİYA",
+    "gen": 8,
+    "parent_id": 47
+  },
+  {
+    "id": 86,
+    "name": "SIRRI",
+    "gen": 8,
+    "parent_id": 47
+  },
+  {
+    "id": 87,
+    "name": "SITKI",
+    "gen": 8,
+    "parent_id": 47
+  },
+  {
+    "id": 88,
+    "name": "NACİ",
+    "gen": 8,
+    "parent_id": 47
+  },
+  {
+    "id": 89,
+    "name": "NİHAT",
+    "gen": 8,
+    "parent_id": 47
+  },
+  {
+    "id": 90,
+    "name": "VAHAP",
+    "gen": 8,
+    "parent_id": 47
+  },
+  {
+    "id": 91,
+    "name": "CEMAL",
+    "gen": 8,
+    "parent_id": 48
+  },
+  {
+    "id": 92,
+    "name": "CEMİL",
+    "gen": 8,
+    "parent_id": 48
+  },
+  {
+    "id": 93,
+    "name": "CAHİT",
+    "gen": 8,
+    "parent_id": 48
+  },
+  {
+    "id": 94,
+    "name": "NEVRES",
+    "gen": 8,
+    "parent_id": 48
+  },
+  {
+    "id": 95,
+    "name": "GÜRBÜZ",
+    "gen": 8,
+    "parent_id": 48
+  },
+  {
+    "id": 96,
+    "name": "ZEKİ",
+    "gen": 8,
+    "parent_id": 50
+  },
+  {
+    "id": 97,
+    "name": "HALİT",
+    "gen": 8,
+    "parent_id": 50
+  },
+  {
+    "id": 98,
+    "name": "HALİS",
+    "gen": 8,
+    "parent_id": 50
+  },
+  {
+    "id": 99,
+    "name": "İSMET",
+    "gen": 8,
+    "parent_id": 50
+  },
+  {
+    "id": 100,
+    "name": "NECMİ",
+    "gen": 8,
+    "parent_id": 51
+  },
+  {
+    "id": 101,
+    "name": "H.NEVZAT",
+    "gen": 8,
+    "parent_id": 51
+  },
+  {
+    "id": 102,
+    "name": "ZAKİR",
+    "gen": 8,
+    "parent_id": 51
+  },
+  {
+    "id": 103,
+    "name": "TALAT",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 104,
+    "name": "ALAATTİN",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 105,
+    "name": "ASİM",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 106,
+    "name": "NURETTİN",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 107,
+    "name": "İBRAHİM",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 108,
+    "name": "KAZIM",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 109,
+    "name": "ASAF",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 110,
+    "name": "ŞÜKRÜ",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 111,
+    "name": "YILMAZ",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 112,
+    "name": "RAİF",
+    "gen": 8,
+    "parent_id": 54
+  },
+  {
+    "id": 113,
+    "name": "RAHİM",
+    "gen": 8,
+    "parent_id": 55
+  },
+  {
+    "id": 114,
+    "name": "ZEKERİYA",
+    "gen": 9,
+    "parent_id": 57
+  },
+  {
+    "id": 115,
+    "name": "SELAMİ",
+    "gen": 9,
+    "parent_id": 57
+  },
+  {
+    "id": 116,
+    "name": "ALTAN",
+    "gen": 9,
+    "parent_id": 58
+  },
+  {
+    "id": 117,
+    "name": "SERKAN",
+    "gen": 9,
+    "parent_id": 58
+  },
+  {
+    "id": 118,
+    "name": "MUSTAFA",
+    "gen": 9,
+    "parent_id": 59
+  },
+  {
+    "id": 119,
+    "name": "HAKKI",
+    "gen": 9,
+    "parent_id": 60
+  },
+  {
+    "id": 120,
+    "name": "FARUK",
+    "gen": 9,
+    "parent_id": 60
+  },
+  {
+    "id": 121,
+    "name": "OSMAN",
+    "gen": 9,
+    "parent_id": 61
+  },
+  {
+    "id": 122,
+    "name": "SİNAN",
+    "gen": 9,
+    "parent_id": 61
+  },
+  {
+    "id": 123,
+    "name": "ŞAHİN",
+    "gen": 9,
+    "parent_id": 61
+  },
+  {
+    "id": 124,
+    "name": "İLHAN",
+    "gen": 9,
+    "parent_id": 61
+  },
+  {
+    "id": 125,
+    "name": "MEVLÜT",
+    "gen": 9,
+    "parent_id": 61
+  },
+  {
+    "id": 126,
+    "name": "AYHAN",
+    "gen": 9,
+    "parent_id": 61
+  },
+  {
+    "id": 127,
+    "name": "BAKİ",
+    "gen": 9,
+    "parent_id": 62
+  },
+  {
+    "id": 128,
+    "name": "İFAKAT--AZMİ-SEBAHAT",
+    "gen": 9,
+    "parent_id": 62
+  },
+  {
+    "id": 129,
+    "name": "ZARİF",
+    "gen": 9,
+    "parent_id": 62
+  },
+  {
+    "id": 130,
+    "name": "EKREM",
+    "gen": 9,
+    "parent_id": 63
+  },
+  {
+    "id": 131,
+    "name": "NESİBE-HİKMET-ASLI-ARZU",
+    "gen": 9,
+    "parent_id": 63
+  },
+  {
+    "id": 132,
+    "name": "HASAN",
+    "gen": 9,
+    "parent_id": 63
+  },
+  {
+    "id": 133,
+    "name": "SEYFETTİN",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 134,
+    "name": "ARİF",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 135,
+    "name": "ŞERİF",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 136,
+    "name": "SERMİN-CEVDET-ELİF",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 137,
+    "name": "NAZIFE-HÜSEYİN-LEYLA-SİBEL",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 138,
+    "name": "HASAN",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 139,
+    "name": "ŞEKİBE-ŞAMİL-ENGİN",
+    "gen": 9,
+    "parent_id": 64
+  },
+  {
+    "id": 140,
+    "name": "BEKİR",
+    "gen": 9,
+    "parent_id": 69
+  },
+  {
+    "id": 141,
+    "name": "MUZAFFER",
+    "gen": 9,
+    "parent_id": 69
+  },
+  {
+    "id": 142,
+    "name": "SAKIP",
+    "gen": 9,
+    "parent_id": 74
+  },
+  {
+    "id": 143,
+    "name": "YASİN",
+    "gen": 9,
+    "parent_id": 74
+  },
+  {
+    "id": 144,
+    "name": "KORKMAZ",
+    "gen": 9,
+    "parent_id": 74
+  },
+  {
+    "id": 145,
+    "name": "OĞUZHAN",
+    "gen": 9,
+    "parent_id": 74
+  },
+  {
+    "id": 146,
+    "name": "EDİP",
+    "gen": 9,
+    "parent_id": 75
+  },
+  {
+    "id": 147,
+    "name": "HABİP",
+    "gen": 9,
+    "parent_id": 75
+  },
+  {
+    "id": 148,
+    "name": "AHMET",
+    "gen": 9,
+    "parent_id": 75
+  },
+  {
+    "id": 149,
+    "name": "MAHMUT",
+    "gen": 9,
+    "parent_id": 75
+  },
+  {
+    "id": 150,
+    "name": "ÜMİT YAŞAR",
+    "gen": 9,
+    "parent_id": 76
+  },
+  {
+    "id": 151,
+    "name": "MAHİR",
+    "gen": 9,
+    "parent_id": 77
+  },
+  {
+    "id": 152,
+    "name": "LEVENT",
+    "gen": 9,
+    "parent_id": 78
+  },
+  {
+    "id": 153,
+    "name": "EFRAHİM",
+    "gen": 9,
+    "parent_id": 78
+  },
+  {
+    "id": 154,
+    "name": "HACI YAKUP",
+    "gen": 9,
+    "parent_id": 79
+  },
+  {
+    "id": 155,
+    "name": "HÜSNÜ",
+    "gen": 9,
+    "parent_id": 81
+  },
+  {
+    "id": 156,
+    "name": "ÇETİN",
+    "gen": 9,
+    "parent_id": 81
+  },
+  {
+    "id": 157,
+    "name": "ŞAKİP",
+    "gen": 9,
+    "parent_id": 81
+  },
+  {
+    "id": 158,
+    "name": "HÜRSEFA",
+    "gen": 9,
+    "parent_id": 82
+  },
+  {
+    "id": 159,
+    "name": "EFDAL",
+    "gen": 9,
+    "parent_id": 82
+  },
+  {
+    "id": 160,
+    "name": "BAHTİYAR",
+    "gen": 9,
+    "parent_id": 82
+  },
+  {
+    "id": 161,
+    "name": "ARİF KEMAL",
+    "gen": 9,
+    "parent_id": 82
+  },
+  {
+    "id": 162,
+    "name": "HAKAN",
+    "gen": 9,
+    "parent_id": 82
+  },
+  {
+    "id": 163,
+    "name": "ORHAN",
+    "gen": 9,
+    "parent_id": 83
+  },
+  {
+    "id": 164,
+    "name": "ERHAN",
+    "gen": 9,
+    "parent_id": 83
+  },
+  {
+    "id": 165,
+    "name": "CİHAT",
+    "gen": 9,
+    "parent_id": 85
+  },
+  {
+    "id": 166,
+    "name": "RAGIP",
+    "gen": 9,
+    "parent_id": 85
+  },
+  {
+    "id": 167,
+    "name": "GÜRKAN",
+    "gen": 9,
+    "parent_id": 85
+  },
+  {
+    "id": 168,
+    "name": "ALKAN",
+    "gen": 9,
+    "parent_id": 85
+  },
+  {
+    "id": 169,
+    "name": "MUHSİN",
+    "gen": 9,
+    "parent_id": 86
+  },
+  {
+    "id": 170,
+    "name": "ŞİNASİ",
+    "gen": 9,
+    "parent_id": 86
+  },
+  {
+    "id": 171,
+    "name": "YAVUZ",
+    "gen": 9,
+    "parent_id": 86
+  },
+  {
+    "id": 172,
+    "name": "HAŞMET",
+    "gen": 9,
+    "parent_id": 86
+  },
+  {
+    "id": 173,
+    "name": "RAİF",
+    "gen": 9,
+    "parent_id": 86
+  },
+  {
+    "id": 174,
+    "name": "FATİH",
+    "gen": 9,
+    "parent_id": 86
+  },
+  {
+    "id": 175,
+    "name": "UĞUR",
+    "gen": 9,
+    "parent_id": 87
+  },
+  {
+    "id": 176,
+    "name": "CENGİZ",
+    "gen": 9,
+    "parent_id": 87
+  },
+  {
+    "id": 177,
+    "name": "SÜREYYA",
+    "gen": 9,
+    "parent_id": 87
+  },
+  {
+    "id": 178,
+    "name": "HALUK",
+    "gen": 9,
+    "parent_id": 87
+  },
+  {
+    "id": 179,
+    "name": "DENİZ",
+    "gen": 9,
+    "parent_id": 88
+  },
+  {
+    "id": 180,
+    "name": "DERYA",
+    "gen": 9,
+    "parent_id": 88
+  },
+  {
+    "id": 181,
+    "name": "ÜMİT DİNDAR",
+    "gen": 9,
+    "parent_id": 89
+  },
+  {
+    "id": 182,
+    "name": "CEM KAAN",
+    "gen": 9,
+    "parent_id": 90
+  },
+  {
+    "id": 183,
+    "name": "TANYEL",
+    "gen": 9,
+    "parent_id": 91
+  },
+  {
+    "id": 184,
+    "name": "TANSEL",
+    "gen": 9,
+    "parent_id": 91
+  },
+  {
+    "id": 185,
+    "name": "TANER",
+    "gen": 9,
+    "parent_id": 91
+  },
+  {
+    "id": 186,
+    "name": "SEZGİN",
+    "gen": 9,
+    "parent_id": 92
+  },
+  {
+    "id": 187,
+    "name": "DİKMEN",
+    "gen": 9,
+    "parent_id": 93
+  },
+  {
+    "id": 188,
+    "name": "ERDEM",
+    "gen": 9,
+    "parent_id": 94
+  },
+  {
+    "id": 189,
+    "name": "CELAL",
+    "gen": 9,
+    "parent_id": 95
+  },
+  {
+    "id": 190,
+    "name": "CAFER",
+    "gen": 9,
+    "parent_id": 95
+  },
+  {
+    "id": 191,
+    "name": "CANAN",
+    "gen": 9,
+    "parent_id": 95
+  },
+  {
+    "id": 192,
+    "name": "MUAMMER",
+    "gen": 9,
+    "parent_id": 96
+  },
+  {
+    "id": 193,
+    "name": "ENVER",
+    "gen": 9,
+    "parent_id": 96
+  },
+  {
+    "id": 194,
+    "name": "BURHANETTİN",
+    "gen": 9,
+    "parent_id": 97
+  },
+  {
+    "id": 195,
+    "name": "CELALETTİN",
+    "gen": 9,
+    "parent_id": 97
+  },
+  {
+    "id": 196,
+    "name": "SELAHATTİN",
+    "gen": 9,
+    "parent_id": 97
+  },
+  {
+    "id": 197,
+    "name": "CEVHER",
+    "gen": 9,
+    "parent_id": 97
+  },
+  {
+    "id": 198,
+    "name": "TAYFUN",
+    "gen": 9,
+    "parent_id": 97
+  },
+  {
+    "id": 199,
+    "name": "LÜTFÜ",
+    "gen": 9,
+    "parent_id": 98
+  },
+  {
+    "id": 200,
+    "name": "AKIN",
+    "gen": 9,
+    "parent_id": 98
+  },
+  {
+    "id": 201,
+    "name": "HAKAN",
+    "gen": 9,
+    "parent_id": 98
+  },
+  {
+    "id": 202,
+    "name": "EROL SALİH",
+    "gen": 9,
+    "parent_id": 98
+  },
+  {
+    "id": 203,
+    "name": "ŞAHİN",
+    "gen": 9,
+    "parent_id": 99
+  },
+  {
+    "id": 204,
+    "name": "HACI",
+    "gen": 9,
+    "parent_id": 100
+  },
+  {
+    "id": 205,
+    "name": "NAZİR",
+    "gen": 9,
+    "parent_id": 100
+  },
+  {
+    "id": 206,
+    "name": "AŞKIN",
+    "gen": 9,
+    "parent_id": 100
+  },
+  {
+    "id": 207,
+    "name": "MUSTAFA",
+    "gen": 9,
+    "parent_id": 100
+  },
+  {
+    "id": 208,
+    "name": "KEMALETTİN",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 209,
+    "name": "İRFAN",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 210,
+    "name": "HALUK",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 211,
+    "name": "ZAFER",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 212,
+    "name": "ABDULLAH",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 213,
+    "name": "MÜCAHİD",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 214,
+    "name": "AHMET",
+    "gen": 9,
+    "parent_id": 101
+  },
+  {
+    "id": 215,
+    "name": "ESENBEY",
+    "gen": 9,
+    "parent_id": 102
+  },
+  {
+    "id": 216,
+    "name": "FAHRETTİN",
+    "gen": 9,
+    "parent_id": 102
+  },
+  {
+    "id": 217,
+    "name": "MURAT",
+    "gen": 9,
+    "parent_id": 103
+  },
+  {
+    "id": 218,
+    "name": "ADNAN",
+    "gen": 9,
+    "parent_id": 103
+  },
+  {
+    "id": 219,
+    "name": "İMDAT",
+    "gen": 9,
+    "parent_id": 103
+  },
+  {
+    "id": 220,
+    "name": "DURAK",
+    "gen": 9,
+    "parent_id": 104
+  },
+  {
+    "id": 221,
+    "name": "SEBAHATTİN",
+    "gen": 9,
+    "parent_id": 104
+  },
+  {
+    "id": 222,
+    "name": "İHSAN",
+    "gen": 9,
+    "parent_id": 105
+  },
+  {
+    "id": 223,
+    "name": "MİKDAT",
+    "gen": 9,
+    "parent_id": 105
+  },
+  {
+    "id": 224,
+    "name": "GÖKMEN",
+    "gen": 9,
+    "parent_id": 105
+  },
+  {
+    "id": 225,
+    "name": "ÜNSAL",
+    "gen": 9,
+    "parent_id": 105
+  },
+  {
+    "id": 226,
+    "name": "ADEM",
+    "gen": 9,
+    "parent_id": 106
+  },
+  {
+    "id": 227,
+    "name": "YAHYA",
+    "gen": 9,
+    "parent_id": 106
+  },
+  {
+    "id": 228,
+    "name": "SADETTİN",
+    "gen": 9,
+    "parent_id": 106
+  },
+  {
+    "id": 229,
+    "name": "MUHARREM",
+    "gen": 9,
+    "parent_id": 106
+  },
+  {
+    "id": 230,
+    "name": "LÜTFÜ",
+    "gen": 9,
+    "parent_id": 107
+  },
+  {
+    "id": 231,
+    "name": "FAHRİ",
+    "gen": 9,
+    "parent_id": 107
+  },
+  {
+    "id": 232,
+    "name": "İSMAİL",
+    "gen": 9,
+    "parent_id": 107
+  },
+  {
+    "id": 233,
+    "name": "CİHANGİR",
+    "gen": 9,
+    "parent_id": 108
+  },
+  {
+    "id": 234,
+    "name": "SERDAR",
+    "gen": 9,
+    "parent_id": 108
+  },
+  {
+    "id": 235,
+    "name": "HAMDİ",
+    "gen": 9,
+    "parent_id": 109
+  },
+  {
+    "id": 236,
+    "name": "AVNİ",
+    "gen": 9,
+    "parent_id": 109
+  },
+  {
+    "id": 237,
+    "name": "SAFFET",
+    "gen": 9,
+    "parent_id": 110
+  },
+  {
+    "id": 238,
+    "name": "ŞEREF",
+    "gen": 9,
+    "parent_id": 110
+  },
+  {
+    "id": 239,
+    "name": "SEMİH",
+    "gen": 9,
+    "parent_id": 111
+  },
+  {
+    "id": 240,
+    "name": "SELİM",
+    "gen": 10,
+    "parent_id": 116
+  },
+  {
+    "id": 241,
+    "name": "HALİL ENES",
+    "gen": 10,
+    "parent_id": 117
+  },
+  {
+    "id": 242,
+    "name": "ÖMER ASAF",
+    "gen": 10,
+    "parent_id": 117
+  },
+  {
+    "id": 243,
+    "name": "YAVUZ",
+    "gen": 10,
+    "parent_id": 119
+  },
+  {
+    "id": 244,
+    "name": "HAMZA",
+    "gen": 10,
+    "parent_id": 119
+  },
+  {
+    "id": 245,
+    "name": "MUZAFFER YİĞİT",
+    "gen": 10,
+    "parent_id": 119
+  },
+  {
+    "id": 246,
+    "name": "MUSTAFA",
+    "gen": 10,
+    "parent_id": 121
+  },
+  {
+    "id": 247,
+    "name": "ABDULLAH",
+    "gen": 10,
+    "parent_id": 121
+  },
+  {
+    "id": 248,
+    "name": "VOLKAN",
+    "gen": 10,
+    "parent_id": 122
+  },
+  {
+    "id": 249,
+    "name": "HARUN",
+    "gen": 10,
+    "parent_id": 122
+  },
+  {
+    "id": 250,
+    "name": "ENSAR TUANA",
+    "gen": 10,
+    "parent_id": 122
+  },
+  {
+    "id": 251,
+    "name": "YAKUP",
+    "gen": 10,
+    "parent_id": 123
+  },
+  {
+    "id": 252,
+    "name": "FARUK",
+    "gen": 10,
+    "parent_id": 123
+  },
+  {
+    "id": 253,
+    "name": "OZAN",
+    "gen": 10,
+    "parent_id": 124
+  },
+  {
+    "id": 254,
+    "name": "SEFA",
+    "gen": 10,
+    "parent_id": 124
+  },
+  {
+    "id": 255,
+    "name": "ABDULKERİM",
+    "gen": 10,
+    "parent_id": 125
+  },
+  {
+    "id": 256,
+    "name": "FATİH",
+    "gen": 10,
+    "parent_id": 126
+  },
+  {
+    "id": 257,
+    "name": "ERHAN",
+    "gen": 10,
+    "parent_id": 127
+  },
+  {
+    "id": 258,
+    "name": "NİZAMETTİN",
+    "gen": 10,
+    "parent_id": 127
+  },
+  {
+    "id": 259,
+    "name": "ÖZCAN",
+    "gen": 10,
+    "parent_id": 128
+  },
+  {
+    "id": 260,
+    "name": "ÖZKAN",
+    "gen": 10,
+    "parent_id": 128
+  },
+  {
+    "id": 261,
+    "name": "SERAP-CENGİZ-ZEHRA",
+    "gen": 10,
+    "parent_id": 128
+  },
+  {
+    "id": 262,
+    "name": "RECAİ",
+    "gen": 10,
+    "parent_id": 129
+  },
+  {
+    "id": 263,
+    "name": "ZEKAİ",
+    "gen": 10,
+    "parent_id": 129
+  },
+  {
+    "id": 264,
+    "name": "KENAN",
+    "gen": 10,
+    "parent_id": 130
+  },
+  {
+    "id": 265,
+    "name": "GÖNÜL-ÖNCÜ",
+    "gen": 10,
+    "parent_id": 130
+  },
+  {
+    "id": 266,
+    "name": "ERAY-PINAR-SEÇİL-DERYA-HİLAL",
+    "gen": 10,
+    "parent_id": 131
+  },
+  {
+    "id": 267,
+    "name": "LEYLA-ERCAN",
+    "gen": 10,
+    "parent_id": 131
+  },
+  {
+    "id": 268,
+    "name": "HİDAYET-TUĞBA",
+    "gen": 10,
+    "parent_id": 131
+  },
+  {
+    "id": 269,
+    "name": "ALİ FUAT",
+    "gen": 10,
+    "parent_id": 132
+  },
+  {
+    "id": 270,
+    "name": "SUAT",
+    "gen": 10,
+    "parent_id": 132
+  },
+  {
+    "id": 271,
+    "name": "SAMİ",
+    "gen": 10,
+    "parent_id": 132
+  },
+  {
+    "id": 272,
+    "name": "EYÜP",
+    "gen": 10,
+    "parent_id": 132
+  },
+  {
+    "id": 273,
+    "name": "YURDAGÜL-ŞENAY",
+    "gen": 10,
+    "parent_id": 133
+  },
+  {
+    "id": 274,
+    "name": "GÜVEN",
+    "gen": 10,
+    "parent_id": 134
+  },
+  {
+    "id": 275,
+    "name": "KAMİL",
+    "gen": 10,
+    "parent_id": 135
+  },
+  {
+    "id": 276,
+    "name": "ŞEFİK",
+    "gen": 10,
+    "parent_id": 135
+  },
+  {
+    "id": 277,
+    "name": "ABDULLAH",
+    "gen": 10,
+    "parent_id": 136
+  },
+  {
+    "id": 278,
+    "name": "AHMET",
+    "gen": 10,
+    "parent_id": 136
+  },
+  {
+    "id": 279,
+    "name": "CİHAT",
+    "gen": 10,
+    "parent_id": 136
+  },
+  {
+    "id": 280,
+    "name": "CANER",
+    "gen": 10,
+    "parent_id": 137
+  },
+  {
+    "id": 281,
+    "name": "MERYEM-MUHAMMET",
+    "gen": 10,
+    "parent_id": 137
+  },
+  {
+    "id": 282,
+    "name": "ÖZLEM-ATİLLA-ZEYNEP",
+    "gen": 10,
+    "parent_id": 137
+  },
+  {
+    "id": 283,
+    "name": "COŞKUN",
+    "gen": 10,
+    "parent_id": 138
+  },
+  {
+    "id": 284,
+    "name": "TÜRKER",
+    "gen": 10,
+    "parent_id": 138
+  },
+  {
+    "id": 285,
+    "name": "OLGUN",
+    "gen": 10,
+    "parent_id": 138
+  },
+  {
+    "id": 286,
+    "name": "ERTAN",
+    "gen": 10,
+    "parent_id": 139
+  },
+  {
+    "id": 287,
+    "name": "VEYSEL",
+    "gen": 10,
+    "parent_id": 139
+  },
+  {
+    "id": 288,
+    "name": "BAHATTİN",
+    "gen": 10,
+    "parent_id": 140
+  },
+  {
+    "id": 289,
+    "name": "GÖKAY",
+    "gen": 10,
+    "parent_id": 141
+  },
+  {
+    "id": 290,
+    "name": "TEKİNER",
+    "gen": 10,
+    "parent_id": 141
+  },
+  {
+    "id": 291,
+    "name": "KADİR",
+    "gen": 10,
+    "parent_id": 141
+  },
+  {
+    "id": 292,
+    "name": "ZAFER",
+    "gen": 10,
+    "parent_id": 141
+  },
+  {
+    "id": 293,
+    "name": "MUHAMMET ÇAĞRI",
+    "gen": 10,
+    "parent_id": 142
+  },
+  {
+    "id": 294,
+    "name": "TUĞRUL",
+    "gen": 10,
+    "parent_id": 142
+  },
+  {
+    "id": 295,
+    "name": "TAHSİN",
+    "gen": 10,
+    "parent_id": 143
+  },
+  {
+    "id": 296,
+    "name": "İSA",
+    "gen": 10,
+    "parent_id": 143
+  },
+  {
+    "id": 297,
+    "name": "MUSA",
+    "gen": 10,
+    "parent_id": 143
+  },
+  {
+    "id": 298,
+    "name": "BİLAL EMİN",
+    "gen": 10,
+    "parent_id": 144
+  },
+  {
+    "id": 299,
+    "name": "MUHAMMET HAMZA",
+    "gen": 10,
+    "parent_id": 144
+  },
+  {
+    "id": 300,
+    "name": "HALİL İBRAHİM",
+    "gen": 10,
+    "parent_id": 144
+  },
+  {
+    "id": 301,
+    "name": "EREN CAN",
+    "gen": 10,
+    "parent_id": 144
+  },
+  {
+    "id": 302,
+    "name": "YUNUS EMRE",
+    "gen": 10,
+    "parent_id": 144
+  },
+  {
+    "id": 303,
+    "name": "ALİ OSMAN",
+    "gen": 10,
+    "parent_id": 145
+  },
+  {
+    "id": 304,
+    "name": "YİĞİT",
+    "gen": 10,
+    "parent_id": 145
+  },
+  {
+    "id": 305,
+    "name": "HACI DAVUT",
+    "gen": 10,
+    "parent_id": 145
+  },
+  {
+    "id": 306,
+    "name": "SALİM",
+    "gen": 10,
+    "parent_id": 147
+  },
+  {
+    "id": 307,
+    "name": "ABDULHAMİT",
+    "gen": 10,
+    "parent_id": 149
+  },
+  {
+    "id": 308,
+    "name": "SEMİH",
+    "gen": 10,
+    "parent_id": 149
+  },
+  {
+    "id": 309,
+    "name": "MUSTAFA KÜRŞAT",
+    "gen": 10,
+    "parent_id": 150
+  },
+  {
+    "id": 310,
+    "name": "EMİRHAN",
+    "gen": 10,
+    "parent_id": 150
+  },
+  {
+    "id": 311,
+    "name": "YAVUZ SELİM",
+    "gen": 10,
+    "parent_id": 150
+  },
+  {
+    "id": 312,
+    "name": "ALİM İSLAM",
+    "gen": 10,
+    "parent_id": 150
+  },
+  {
+    "id": 313,
+    "name": "AHMET",
+    "gen": 10,
+    "parent_id": 151
+  },
+  {
+    "id": 314,
+    "name": "YAVUZ KEREM",
+    "gen": 10,
+    "parent_id": 153
+  },
+  {
+    "id": 315,
+    "name": "BURAK",
+    "gen": 10,
+    "parent_id": 155
+  },
+  {
+    "id": 316,
+    "name": "SEFA",
+    "gen": 10,
+    "parent_id": 155
+  },
+  {
+    "id": 317,
+    "name": "MUHAMMET",
+    "gen": 10,
+    "parent_id": 163
+  },
+  {
+    "id": 318,
+    "name": "TAHA",
+    "gen": 10,
+    "parent_id": 163
+  },
+  {
+    "id": 319,
+    "name": "AYBARS",
+    "gen": 10,
+    "parent_id": 164
+  },
+  {
+    "id": 320,
+    "name": "?",
+    "gen": 10,
+    "parent_id": 164
+  },
+  {
+    "id": 321,
+    "name": "AHMET OĞUZHAN",
+    "gen": 10,
+    "parent_id": 165
+  },
+  {
+    "id": 322,
+    "name": "İHSAN",
+    "gen": 10,
+    "parent_id": 166
+  },
+  {
+    "id": 323,
+    "name": "ALPARSLAN",
+    "gen": 10,
+    "parent_id": 167
+  },
+  {
+    "id": 324,
+    "name": "CENGİZHAN",
+    "gen": 10,
+    "parent_id": 167
+  },
+  {
+    "id": 325,
+    "name": "ESERCAN",
+    "gen": 10,
+    "parent_id": 169
+  },
+  {
+    "id": 326,
+    "name": "MUSTAFA SELÇUK",
+    "gen": 10,
+    "parent_id": 170
+  },
+  {
+    "id": 327,
+    "name": "TANSU",
+    "gen": 10,
+    "parent_id": 171
+  },
+  {
+    "id": 328,
+    "name": "FERİDUN",
+    "gen": 10,
+    "parent_id": 171
+  },
+  {
+    "id": 329,
+    "name": "SELİM SIRRI",
+    "gen": 10,
+    "parent_id": 172
+  },
+  {
+    "id": 330,
+    "name": "TUĞKAN",
+    "gen": 10,
+    "parent_id": 173
+  },
+  {
+    "id": 331,
+    "name": "ERKAN",
+    "gen": 10,
+    "parent_id": 174
+  },
+  {
+    "id": 332,
+    "name": "T.KÜRŞAD",
+    "gen": 10,
+    "parent_id": 175
+  },
+  {
+    "id": 333,
+    "name": "İRŞAD",
+    "gen": 10,
+    "parent_id": 175
+  },
+  {
+    "id": 334,
+    "name": "TALHA",
+    "gen": 10,
+    "parent_id": 176
+  },
+  {
+    "id": 335,
+    "name": "MUSTAFA TAHİR",
+    "gen": 10,
+    "parent_id": 176
+  },
+  {
+    "id": 336,
+    "name": "H.İBRAHİM",
+    "gen": 10,
+    "parent_id": 177
+  },
+  {
+    "id": 337,
+    "name": "ÖMER FARUK",
+    "gen": 10,
+    "parent_id": 178
+  },
+  {
+    "id": 338,
+    "name": "BUĞRA",
+    "gen": 10,
+    "parent_id": 179
+  },
+  {
+    "id": 339,
+    "name": "NİHAT SAMET",
+    "gen": 10,
+    "parent_id": 181
+  },
+  {
+    "id": 340,
+    "name": "SERHAT",
+    "gen": 10,
+    "parent_id": 184
+  },
+  {
+    "id": 341,
+    "name": "GÜVENÇ",
+    "gen": 10,
+    "parent_id": 185
+  },
+  {
+    "id": 342,
+    "name": "SEZER",
+    "gen": 10,
+    "parent_id": 186
+  },
+  {
+    "id": 343,
+    "name": "CEMİL EMRE",
+    "gen": 10,
+    "parent_id": 186
+  },
+  {
+    "id": 344,
+    "name": "YİĞİT",
+    "gen": 10,
+    "parent_id": 188
+  },
+  {
+    "id": 345,
+    "name": "CELAL",
+    "gen": 10,
+    "parent_id": 191
+  },
+  {
+    "id": 346,
+    "name": "SALİH ZEKİ",
+    "gen": 10,
+    "parent_id": 192
+  },
+  {
+    "id": 347,
+    "name": "MEHMET AKİF",
+    "gen": 10,
+    "parent_id": 192
+  },
+  {
+    "id": 348,
+    "name": "ALPEREN",
+    "gen": 10,
+    "parent_id": 199
+  },
+  {
+    "id": 349,
+    "name": "SERDAR AKINALP",
+    "gen": 10,
+    "parent_id": 200
+  },
+  {
+    "id": 350,
+    "name": "YİĞİTHAN",
+    "gen": 10,
+    "parent_id": 201
+  },
+  {
+    "id": 351,
+    "name": "METEHAN",
+    "gen": 10,
+    "parent_id": 201
+  },
+  {
+    "id": 352,
+    "name": "MÜCAHİT",
+    "gen": 10,
+    "parent_id": 208
+  },
+  {
+    "id": 353,
+    "name": "MÜCTEBA",
+    "gen": 10,
+    "parent_id": 208
+  },
+  {
+    "id": 354,
+    "name": "MUHAMMET",
+    "gen": 10,
+    "parent_id": 208
+  },
+  {
+    "id": 355,
+    "name": "MUHAMMET İHSAN TAHİR",
+    "gen": 10,
+    "parent_id": 209
+  },
+  {
+    "id": 356,
+    "name": "MUHAMMET FURKAN",
+    "gen": 10,
+    "parent_id": 209
+  },
+  {
+    "id": 357,
+    "name": "AHMET NEVZAT",
+    "gen": 10,
+    "parent_id": 210
+  },
+  {
+    "id": 358,
+    "name": "ERDEM",
+    "gen": 10,
+    "parent_id": 211
+  },
+  {
+    "id": 359,
+    "name": "AHMET ZAKİR",
+    "gen": 10,
+    "parent_id": 215
+  },
+  {
+    "id": 360,
+    "name": "MEHMET ERTUĞRUL",
+    "gen": 10,
+    "parent_id": 215
+  },
+  {
+    "id": 361,
+    "name": "BAHATTİN KEREM",
+    "gen": 10,
+    "parent_id": 216
+  },
+  {
+    "id": 362,
+    "name": "HALİL İBRAHİM",
+    "gen": 10,
+    "parent_id": 216
+  },
+  {
+    "id": 363,
+    "name": "SERHAT",
+    "gen": 10,
+    "parent_id": 217
+  },
+  {
+    "id": 364,
+    "name": "ERSEN",
+    "gen": 10,
+    "parent_id": 217
+  },
+  {
+    "id": 365,
+    "name": "NAHİT",
+    "gen": 10,
+    "parent_id": 218
+  },
+  {
+    "id": 366,
+    "name": "SELÇUK",
+    "gen": 10,
+    "parent_id": 219
+  },
+  {
+    "id": 367,
+    "name": "SELİM",
+    "gen": 10,
+    "parent_id": 219
+  },
+  {
+    "id": 368,
+    "name": "YAKUP",
+    "gen": 10,
+    "parent_id": 220
+  },
+  {
+    "id": 369,
+    "name": "HARUN",
+    "gen": 10,
+    "parent_id": 220
+  },
+  {
+    "id": 370,
+    "name": "AHMET EMİN",
+    "gen": 10,
+    "parent_id": 222
+  },
+  {
+    "id": 371,
+    "name": "FATİH",
+    "gen": 10,
+    "parent_id": 223
+  },
+  {
+    "id": 372,
+    "name": "MEHMET",
+    "gen": 10,
+    "parent_id": 223
+  },
+  {
+    "id": 373,
+    "name": "FURKAN",
+    "gen": 10,
+    "parent_id": 223
+  },
+  {
+    "id": 374,
+    "name": "ABDULHAMİT",
+    "gen": 10,
+    "parent_id": 223
+  },
+  {
+    "id": 375,
+    "name": "TARIK MELİKŞAH",
+    "gen": 10,
+    "parent_id": 224
+  },
+  {
+    "id": 376,
+    "name": "ENES MALİK",
+    "gen": 10,
+    "parent_id": 226
+  },
+  {
+    "id": 377,
+    "name": "EYÜP ENSAR",
+    "gen": 10,
+    "parent_id": 226
+  },
+  {
+    "id": 378,
+    "name": "ÖMÜR RAŞİT",
+    "gen": 10,
+    "parent_id": 229
+  },
+  {
+    "id": 379,
+    "name": "YUSUF ORKUN",
+    "gen": 10,
+    "parent_id": 231
+  },
+  {
+    "id": 380,
+    "name": "MEHMET EMİN",
+    "gen": 10,
+    "parent_id": 232
+  },
+  {
+    "id": 381,
+    "name": "AHMET MANSUR",
+    "gen": 10,
+    "parent_id": 233
+  },
+  {
+    "id": 382,
+    "name": "TAHA CİHANŞAH",
+    "gen": 10,
+    "parent_id": 233
+  },
+  {
+    "id": 383,
+    "name": "MUHAMMET EMİR",
+    "gen": 10,
+    "parent_id": 234
+  },
+  {
+    "id": 384,
+    "name": "FATİH BİLAL",
+    "gen": 10,
+    "parent_id": 234
+  },
+  {
+    "id": 385,
+    "name": "DOĞUKAN",
+    "gen": 10,
+    "parent_id": 237
+  },
+  {
+    "id": 386,
+    "name": "BURAK",
+    "gen": 10,
+    "parent_id": 238
+  },
+  {
+    "id": 387,
+    "name": "YAĞIZALP",
+    "gen": 10,
+    "parent_id": 239
+  },
+  {
+    "id": 388,
+    "name": "ÖMER",
+    "gen": 10,
+    "parent_id": 239
+  },
+  {
+    "id": 389,
+    "name": "YİĞİTALP",
+    "gen": 10,
+    "parent_id": 239
+  },
+  {
+    "id": 390,
+    "name": "TALHA",
+    "gen": 11,
+    "parent_id": 248
+  },
+  {
+    "id": 391,
+    "name": "YUSUF",
+    "gen": 11,
+    "parent_id": 248
+  },
+  {
+    "id": 392,
+    "name": "SIRAÇ",
+    "gen": 11,
+    "parent_id": 249
+  },
+  {
+    "id": 393,
+    "name": "HALİLİBRAHİM",
+    "gen": 11,
+    "parent_id": 250
+  },
+  {
+    "id": 394,
+    "name": "MUHAMMET EMİN",
+    "gen": 11,
+    "parent_id": 252
+  },
+  {
+    "id": 395,
+    "name": "EMİRHAN",
+    "gen": 11,
+    "parent_id": 254
+  },
+  {
+    "id": 396,
+    "name": "BEDİRHAN",
+    "gen": 11,
+    "parent_id": 254
+  },
+  {
+    "id": 397,
+    "name": "MEHMET EMİN",
+    "gen": 11,
+    "parent_id": 254
+  },
+  {
+    "id": 398,
+    "name": "EMRE",
+    "gen": 11,
+    "parent_id": 257
+  },
+  {
+    "id": 399,
+    "name": "EGE",
+    "gen": 11,
+    "parent_id": 258
+  },
+  {
+    "id": 400,
+    "name": "AHMET MUSTAFA",
+    "gen": 11,
+    "parent_id": 261
+  },
+  {
+    "id": 401,
+    "name": "ONUR",
+    "gen": 11,
+    "parent_id": 262
+  },
+  {
+    "id": 402,
+    "name": "ALİCENAP",
+    "gen": 11,
+    "parent_id": 262
+  },
+  {
+    "id": 403,
+    "name": "RESÜL",
+    "gen": 11,
+    "parent_id": 263
+  },
+  {
+    "id": 404,
+    "name": "SERKAN",
+    "gen": 11,
+    "parent_id": 264
+  },
+  {
+    "id": 405,
+    "name": "ERKAN",
+    "gen": 11,
+    "parent_id": 264
+  },
+  {
+    "id": 406,
+    "name": "MEHMET",
+    "gen": 11,
+    "parent_id": 264
+  },
+  {
+    "id": 407,
+    "name": "ÖMER",
+    "gen": 11,
+    "parent_id": 265
+  },
+  {
+    "id": 408,
+    "name": "ÜNAL",
+    "gen": 11,
+    "parent_id": 265
+  },
+  {
+    "id": 409,
+    "name": "VOLKAN-ECRİN",
+    "gen": 11,
+    "parent_id": 266
+  },
+  {
+    "id": 410,
+    "name": "HİKMET",
+    "gen": 11,
+    "parent_id": 267
+  },
+  {
+    "id": 411,
+    "name": "MURAT",
+    "gen": 11,
+    "parent_id": 267
+  },
+  {
+    "id": 412,
+    "name": "YUNUS EMRE",
+    "gen": 11,
+    "parent_id": 268
+  },
+  {
+    "id": 413,
+    "name": "RÜMEYSA-MUHARREM-AHSEN ELA",
+    "gen": 11,
+    "parent_id": 268
+  },
+  {
+    "id": 414,
+    "name": "EBUBEKİR",
+    "gen": 11,
+    "parent_id": 268
+  },
+  {
+    "id": 415,
+    "name": "SALİH",
+    "gen": 11,
+    "parent_id": 269
+  },
+  {
+    "id": 416,
+    "name": "ÖMER FARUK",
+    "gen": 11,
+    "parent_id": 270
+  },
+  {
+    "id": 417,
+    "name": "HAMZA",
+    "gen": 11,
+    "parent_id": 271
+  },
+  {
+    "id": 418,
+    "name": "OSMAN",
+    "gen": 11,
+    "parent_id": 271
+  },
+  {
+    "id": 419,
+    "name": "BURAK EFE",
+    "gen": 11,
+    "parent_id": 272
+  },
+  {
+    "id": 420,
+    "name": "YUNUS",
+    "gen": 11,
+    "parent_id": 273
+  },
+  {
+    "id": 421,
+    "name": "RUŞAN",
+    "gen": 11,
+    "parent_id": 273
+  },
+  {
+    "id": 422,
+    "name": "MEHMET",
+    "gen": 11,
+    "parent_id": 275
+  },
+  {
+    "id": 423,
+    "name": "ALPEREN",
+    "gen": 11,
+    "parent_id": 275
+  },
+  {
+    "id": 424,
+    "name": "BAHADIR",
+    "gen": 11,
+    "parent_id": 275
+  },
+  {
+    "id": 425,
+    "name": "EMİR RIDVAN",
+    "gen": 11,
+    "parent_id": 276
+  },
+  {
+    "id": 426,
+    "name": "AHMET ESAT",
+    "gen": 11,
+    "parent_id": 276
+  },
+  {
+    "id": 427,
+    "name": "BİLAL",
+    "gen": 11,
+    "parent_id": 280
+  },
+  {
+    "id": 428,
+    "name": "AHMET",
+    "gen": 11,
+    "parent_id": 280
+  },
+  {
+    "id": 429,
+    "name": "MEHMET EMİN",
+    "gen": 11,
+    "parent_id": 281
+  },
+  {
+    "id": 430,
+    "name": "EMİRHAN",
+    "gen": 11,
+    "parent_id": 281
+  },
+  {
+    "id": 431,
+    "name": "YUSUF",
+    "gen": 11,
+    "parent_id": 281
+  },
+  {
+    "id": 432,
+    "name": "HÜSEYİN",
+    "gen": 11,
+    "parent_id": 281
+  },
+  {
+    "id": 433,
+    "name": "MERT",
+    "gen": 11,
+    "parent_id": 282
+  },
+  {
+    "id": 434,
+    "name": "EYMEN",
+    "gen": 11,
+    "parent_id": 282
+  },
+  {
+    "id": 435,
+    "name": "HASAN",
+    "gen": 11,
+    "parent_id": 284
+  },
+  {
+    "id": 436,
+    "name": "ATALAY",
+    "gen": 11,
+    "parent_id": 288
+  },
+  {
+    "id": 437,
+    "name": "FATİH",
+    "gen": 11,
+    "parent_id": 288
+  },
+  {
+    "id": 438,
+    "name": "TEKİNER TAHA",
+    "gen": 11,
+    "parent_id": 289
+  },
+  {
+    "id": 439,
+    "name": "MEHMET AKİF",
+    "gen": 11,
+    "parent_id": 291
+  },
+  {
+    "id": 440,
+    "name": "ÖMER ASAF",
+    "gen": 11,
+    "parent_id": 291
+  },
+  {
+    "id": 441,
+    "name": "YUSUF ERDEM",
+    "gen": 11,
+    "parent_id": 292
+  },
+  {
+    "id": 442,
+    "name": "ÖMER",
+    "gen": 11,
+    "parent_id": 294
+  },
+  {
+    "id": 443,
+    "name": "İSMAİL KÜRŞAD",
+    "gen": 11,
+    "parent_id": 294
+  },
+  {
+    "id": 444,
+    "name": "AHMET EMİN",
+    "gen": 11,
+    "parent_id": 295
+  },
+  {
+    "id": 445,
+    "name": "ABDULLAH EYMEN",
+    "gen": 11,
+    "parent_id": 295
+  },
+  {
+    "id": 446,
+    "name": "TAHA YASİN",
+    "gen": 11,
+    "parent_id": 296
+  },
+  {
+    "id": 447,
+    "name": "AKİF HAKAN",
+    "gen": 11,
+    "parent_id": 296
+  },
+  {
+    "id": 448,
+    "name": "MUHAMMET ALİ",
+    "gen": 11,
+    "parent_id": 297
+  },
+  {
+    "id": 449,
+    "name": "MEHMET BATUR",
+    "gen": 11,
+    "parent_id": 306
+  },
+  {
+    "id": 450,
+    "name": "HABİP TALHA",
+    "gen": 11,
+    "parent_id": 306
+  },
+  {
+    "id": 451,
+    "name": "MUSAP MUHAMMET",
+    "gen": 11,
+    "parent_id": 307
+  },
+  {
+    "id": 452,
+    "name": "DENİZ ZİYA",
+    "gen": 11,
+    "parent_id": 324
+  },
+  {
+    "id": 453,
+    "name": "İLYAS",
+    "gen": 11,
+    "parent_id": 324
+  },
+  {
+    "id": 454,
+    "name": "KEREM KUZEY",
+    "gen": 11,
+    "parent_id": 325
+  },
+  {
+    "id": 455,
+    "name": "GÖKTUĞ YAVUZ",
+    "gen": 11,
+    "parent_id": 328
+  },
+  {
+    "id": 456,
+    "name": "BARLAS",
+    "gen": 11,
+    "parent_id": 328
+  },
+  {
+    "id": 457,
+    "name": "RÜZGAR",
+    "gen": 11,
+    "parent_id": 332
+  },
+  {
+    "id": 458,
+    "name": "ASLAN CAN",
+    "gen": 11,
+    "parent_id": 333
+  },
+  {
+    "id": 459,
+    "name": "CENGİZHAN ÇINAR",
+    "gen": 11,
+    "parent_id": 334
+  },
+  {
+    "id": 460,
+    "name": "KUZEY",
+    "gen": 11,
+    "parent_id": 340
+  },
+  {
+    "id": 461,
+    "name": "ASLAN",
+    "gen": 11,
+    "parent_id": 340
+  },
+  {
+    "id": 462,
+    "name": "EYMEN",
+    "gen": 11,
+    "parent_id": 370
+  },
+  {
+    "id": 463,
+    "name": "ALİ NECMİ",
+    "gen": 11,
+    "parent_id": 371
+  },
+  {
+    "id": 464,
+    "name": "ASIM YUSUF",
+    "gen": 11,
+    "parent_id": 371
+  },
+  {
+    "id": 465,
+    "name": "ABDULLAH SELİM",
+    "gen": 11,
+    "parent_id": 372
+  },
+  {
+    "id": 466,
+    "name": "YAĞIZ MİRZA",
+    "gen": 11,
+    "parent_id": 377
+  },
+  {
+    "id": 467,
+    "name": "KÜRŞAT KAĞAN",
+    "gen": 11,
+    "parent_id": 378
+  },
+  {
+    "id": 468,
+    "name": "ÖMER EGE",
+    "gen": 11,
+    "parent_id": 385
+  },
+  {
+    "id": 469,
+    "name": "MUHAMMET YUSUF",
+    "gen": 12,
+    "parent_id": 401
+  },
+  {
+    "id": 470,
+    "name": "FATİH",
+    "gen": 12,
+    "parent_id": 401
+  },
+  {
+    "id": 471,
+    "name": "SALİH",
+    "gen": 12,
+    "parent_id": 403
+  },
+  {
+    "id": 472,
+    "name": "SERGEN",
+    "gen": 12,
+    "parent_id": 405
+  },
+  {
+    "id": 473,
+    "name": "ERAY",
+    "gen": 12,
+    "parent_id": 405
+  },
+  {
+    "id": 474,
+    "name": "YAKUP",
+    "gen": 12,
+    "parent_id": 406
+  },
+  {
+    "id": 475,
+    "name": "EYÜP",
+    "gen": 12,
+    "parent_id": 406
+  },
+  {
+    "id": 476,
+    "name": "ALİ MUHİTTİN",
+    "gen": 12,
+    "parent_id": 407
+  },
+  {
+    "id": 477,
+    "name": "EMİR NURETTTİN",
+    "gen": 12,
+    "parent_id": 407
+  },
+  {
+    "id": 478,
+    "name": "EMRE ETKA",
+    "gen": 12,
+    "parent_id": 408
+  },
+  {
+    "id": 479,
+    "name": "AZİZ URAS",
+    "gen": 12,
+    "parent_id": 409
+  },
+  {
+    "id": 480,
+    "name": "ARAS",
+    "gen": 12,
+    "parent_id": 427
+  },
+  {
+    "id": 481,
+    "name": "FURKAN",
+    "gen": 12,
+    "parent_id": 436
+  }
+]
