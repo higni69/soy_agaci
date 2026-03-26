@@ -148,7 +148,7 @@ const MobileNav = (() => {
 
         const results = [];
         Object.values(flat).forEach(p => {
-            if (p.name.toLocaleLowerCase('tr').includes(query)) results.push(p);
+            if (p.name.toLocaleUpperCase('tr').includes(query)) results.push(p);
         });
 
         const header = make('div', 'mob-search-header');

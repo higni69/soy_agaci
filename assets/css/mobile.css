@@ -43,6 +43,7 @@
         color: var(--text);
         font-size: 0.83rem;
         width: 100%;
+        text-transform: uppercase;
     }
 
     .topbar-search input::placeholder { color: var(--text-dim); }

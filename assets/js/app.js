@@ -74,7 +74,7 @@
 
     // ── Arama ─────────────────────────────────────────
     function handleSearch(query) {
-        MobileNav.search(query.trim().toLocaleLowerCase('tr'));
+        MobileNav.search(query.trim().toLocaleUpperCase('tr'));
     }
 
     // ── Events ────────────────────────────────────────
