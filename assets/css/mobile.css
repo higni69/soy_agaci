@@ -4,6 +4,31 @@
 
 @media (max-width: 768px) {
 
+    .mob-stats-bar {
+        display: flex !important;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 28px;
+        background: var(--bg-panel);
+        border-top: 1px solid var(--border);
+        align-items: center;
+        justify-content: center;
+        gap: 6px;
+        font-size: 0.65rem;
+        color: var(--text-muted);
+        z-index: 300;
+        padding-bottom: env(safe-area-inset-bottom, 0);
+    }
+
+    .mob-stats-bar span { white-space: nowrap; }
+    .mob-stats-bar span span { color: var(--accent); font-weight: 700; }
+    .mob-stats-sep { color: var(--text-dim); }
+
+    /* view-container: stats bar için alan bırak */
+    .main-content { padding-bottom: 28px; }
+
     /* ── Genel düzen ──────────────────────────────────── */
     body { overflow: hidden; }
 
@@ -93,6 +118,7 @@
 /* Desktop'ta alt nav gizli */
 #bottom-nav { display: none; }
 .topbar-search { display: none; }
+.mob-stats-bar { display: none; }
 
 /* ══════════════════════════════════════════════════════
    MOBİL — Aile Gezgini (MobileNav)

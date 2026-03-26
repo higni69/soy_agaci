@@ -40,10 +40,14 @@
 
     function renderStats(people, root) {
         const maxGen = Math.max(...people.map(p => p.gen));
+        const rootName = root ? root.name.split(' ').slice(0, 2).join(' ') : '—';
         const set = (id, v) => { const e = $(id); if (e) e.textContent = v; };
-        set('stat-total', people.length);
-        set('stat-gen',   maxGen);
-        set('stat-root',  root ? root.name.split(' ').slice(0, 2).join(' ') : '—');
+        set('stat-total',     people.length);
+        set('stat-gen',       maxGen);
+        set('stat-root',      rootName);
+        set('mob-stat-total', people.length);
+        set('mob-stat-gen',   maxGen);
+        set('mob-stat-root',  rootName);
     }
 
     // ── Gezgini başlat ────────────────────────────────
